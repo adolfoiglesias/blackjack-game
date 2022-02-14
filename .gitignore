@@ -1,0 +1,19 @@
+# Extracted from https://github.com/ulrich/macaron-factory/blob/master/.gitignore
+# Ignore all dotfiles...
+
+# except for .gitignore
+!.gitignore
+
+# Ignore Idea Config
+*.ipr
+*.iws
+*.iml
+*.ids
+
+# Ignore Play! working directory #
+/eclipse
+/target
+.classpath
+.settings
+.project
+
